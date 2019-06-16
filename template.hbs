@@ -1,0 +1,11 @@
+{
+  "users": [
+    {{#repeat 3}}
+    {
+      "id": {{@index}},
+      "name": "{{firstName}} {{lastName}}",
+      "email": "{{email}}"
+    }
+    {{/repeat}}
+  ]
+}
