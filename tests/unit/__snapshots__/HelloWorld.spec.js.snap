@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HelloWorld.vue 正常にレンダリングされる 1`] = `
+<div class="hello">
+  <ul>
+    <li>
+      1: Leanne Graham
+    </li>
+    <li>
+      2: Ervin Howell
+    </li>
+    <li>
+      3: Clementine Bauch
+    </li>
+  </ul>
+</div>
+`;

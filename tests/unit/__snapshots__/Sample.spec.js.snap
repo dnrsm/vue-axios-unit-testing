@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Sample.vue users[0].name should be Graham 1`] = `
+<div class="hello">
+  <ul>
+    <li>1</li>
+    <li>sunt aut facere repellat provident occaecati excepturi optio reprehenderit</li>
+  </ul>
+</div>
+`;
